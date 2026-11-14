@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.Octave" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">#F2F1FA</item>
+    </style>
+</resources>
